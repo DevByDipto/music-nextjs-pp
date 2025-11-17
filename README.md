@@ -5,7 +5,8 @@
 <p>A modern music platform built with Next.js, React, and Tailwind CSS. It is designed for fast performance, responsive UI, and production-ready deployment.</p>
 
 <hr>
-
+<p>🔗 <strong>Live Demo:</strong> <a href="https://music-nextjs-pp-main.vercel.app/">https://music-nextjs-pp-main.vercel.app/</a></p>
+<hr>
 <h2 id="features">🔧 Features</h2>
 <ul>
   <li>Responsive design for mobile, tablet, and desktop devices.</li>
@@ -88,14 +89,8 @@ npm run build
   <li>Follow project code style and update README if necessary.</li>
 </ol>
 
-<hr>
 
-<h2 id="license">📄 License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
 
-<hr>
 
-<p>🔗 <strong>Live Demo:</strong> <a href="https://music-nextjs-pp-main.vercel.app/">https://music-nextjs-pp-main.vercel.app/</a></p>
-<p>🔗 <strong>Repository:</strong> <a href="https://github.com/DevByDipto/music-nextjs-pp">https://github.com/DevByDipto/music-nextjs-pp</a></p>
 
 </body>
