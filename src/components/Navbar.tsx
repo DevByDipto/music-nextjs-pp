@@ -21,18 +21,17 @@ const Navbar = ({ className }: { className?: string }) => {
 
      
       <HoveredLink href="/courses">All Courses</HoveredLink>
-      <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
-      <HoveredLink href="/courses">Advanced Composition</HoveredLink>
+       <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
+      {/*<HoveredLink href="/courses">Advanced Composition</HoveredLink>
       <HoveredLink href="/courses">Songeriting</HoveredLink>
-      <HoveredLink href="/courses">Music Production</HoveredLink>
+      <HoveredLink href="/courses">Music Production</HoveredLink> */}
       </div>
       </MenuItem>
       
-     <Link href='/contact'>
+     {/* <Link href='/contact'>
       <MenuItem setActive={setActive} active={active} item="Contuct Us"> {/* bujtehobe */}
-      
-      </MenuItem>
-      </Link>
+      {/* </MenuItem>
+      </Link>  */}
     </Menu >
     </div>
   )
