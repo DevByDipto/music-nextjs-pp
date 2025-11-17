@@ -6,19 +6,6 @@
 
 <hr>
 
-<h2>📌 Table of Contents</h2>
-<ul>
-  <li><a href="#features">Features</a></li>
-  <li><a href="#getting-started">Getting Started</a></li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#tech-stack">Tech Stack</a></li>
-  <li><a href="#folder-structure">Folder Structure</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
-</ul>
-
-<hr>
-
 <h2 id="features">🔧 Features</h2>
 <ul>
   <li>Responsive design for mobile, tablet, and desktop devices.</li>
